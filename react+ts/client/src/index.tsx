@@ -8,7 +8,7 @@ import zh_CN from "antd/lib/locale-provider/zh_CN";//国际化中文
 import "./assets/css/common.less";//通用的样式
 import Tabs from "./components/Tabs";//引入底部的页签导航
 import Home from "./routes/Home";//首页
-import Mine from "./routes/Mime";//我的课程
+import Mine from "./routes/Mine";//我的课程
 import Profile from "./routes/Profile";//个人中心
 import { ConnectedRouter } from 'connected-react-router';//redux绑定路由
 import history from './store/history';
