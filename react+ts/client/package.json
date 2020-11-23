@@ -38,6 +38,7 @@
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
+    "@types/classnames": "^2.2.11",
     "autoprefixer": "^10.0.2",
     "css-loader": "^5.0.1",
     "file-loader": "^6.2.0",
